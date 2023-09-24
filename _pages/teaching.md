@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching experience 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant at Northwestern 
+  - MLDS-400: Everything starts with data (Fall 2023)
+  - IEMS-404/MLDS-401: Predictive analytics (Fall 2023)
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant at University of Science and Technology of China
+  - Real analysis (Spring 2017)
+  - Functions of complex variables (Fall 2016)
