@@ -2,96 +2,91 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mengfan Xu
     - name: Date of Birth
-      value: 14th March 1879
+      value: July 4th, 1997
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: Northwestern University, United States
+      year: Expected in June 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Majored in Industrial Engineering and Management Sciences
+        - title: Multi-agent and Multi-objective Multi-armed Bandit
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Advised by Professor Diego Klabjan
+    - title: B.S. 
+      institution: University of Science and Technology of China, China
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Majored in Statistics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Engineer Intern
+      institution: Linkedin
+      year: Jun. 2023 - Sep. 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Develop large language models (LLMs) for keywords extraction based on user queries in search AI team
+        - Prompt engineering and data mining
+        - Develop a workflow and pipeline to ultimately improve users' search experience
+    - title: Algorithm Engineer
+      institution: Didi Chuxing, Beijing, China
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Developed two-staged algorithms that achieve over 25% improvement on baselines for pricing of multiple ride options at Didi;
+        - Developed the very first algorithm with causal forest for model-based route-based pricing of Didi Discount Express and iterated multiple versions with superior performance
+        - Built data pipelines with Spark for processing billions of data and advancing feature engineering to support large-scale model training and distributional computations
+        - Built a model pipeline for online recommender systems with causal neural networks
+        - Did research on treatment effect estimation including proving the convergence of GCF for non-parametric DRF, giving multiple talks and finishing a paper accepted for oral presentation at KDD 2022
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018 - 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Walter P. Murphy Graduate Fellowship
+    - year: 2017
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+        - National Scholarship (top 1%)
+    - year: 2016
+      items: 
+        - National Scholarship (top 1%)
+    - year: 2016
+      items:
+        - Mobile Commerce Competition
+        - Frist Prize 
+    - year: 2015
+      items: 
+        - Scholarship of Minglong Huang (top 10%)
+    - year: 2013
+      items: 
+        - National High School Mathematics Olympiad
+        - Second Prize
+        
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python
+        - R
+        - SQL
+        - Scala
+        - SAS
+        - Latex
+        - C
+    - title: System and framework
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Linux
+        - Spark
+        - Hadoop
+        - Kubernetes,
+        - Pytorch
+        - GCC
+    
