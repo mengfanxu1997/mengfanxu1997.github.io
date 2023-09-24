@@ -11,26 +11,26 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. 
       institution: Northwestern University, United States
-      year: Expected in June 2024
+      year: 2024
       description:
         - Majored in Industrial Engineering and Management Sciences
-        - title: Multi-agent and Multi-objective Multi-armed Bandit
-          contents:
-            - Advised by Professor Diego Klabjan
+        - Dissertation title: Multi-agent and Multi-objective Multi-armed Bandit
+        - Advised by Professor Diego Klabjan
     - title: B.S. 
       institution: University of Science and Technology of China, China
       year: 2018
       description:
         - Majored in Statistics
+        - Summer research at Yale University in 2017
 
 - title: Experience
   type: time_table
   contents:
     - title: Machine Learning Engineer Intern
       institution: Linkedin
-      year: Jun. 2023 - Sep. 2023
+      year: Summer 2023
       description:
         - Develop large language models (LLMs) for keywords extraction based on user queries in search AI team
         - Prompt engineering and data mining
