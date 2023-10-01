@@ -7,11 +7,11 @@ subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/grad
 profile:
   align: right
   image: mengfan_xu.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Tech Institute C151</p>
     <p>2145 Sheridan Road</p>
-    <p>Evanston, IL, 60201, U.S.A.</p>
+    <p>Evanston, IL, 60208, U.S.A.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
