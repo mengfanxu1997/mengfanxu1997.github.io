@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: mengfan_cv.pdf
+cv_pdf: application_materials_informs.pdf
 toc:
   sidebar: left
 ---
