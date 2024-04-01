@@ -6,7 +6,7 @@ subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/grad
 
 profile:
   align: right
-  image: mengfan_xu.jpg
+  image: Github.JPG
   image_circular: true # crops the image to make it circular
   address: >
     <p>Tech Institute C151</p>
