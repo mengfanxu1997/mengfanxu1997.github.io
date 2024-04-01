@@ -12,7 +12,7 @@ profile:
     <p>Tech Institute C151</p>
     <p>2145 Sheridan Road</p>
     <p>Evanston, IL, 60208, U.S.A.</p>
-    <p>Contact: mengfanxu@umass.edu, MengfanXu2023@u.northwestern.edu, mengfan.xu@northwestern.edu<p>
+    <p><span style='color: purple;'>Contact: mengfanxu@umass.edu, MengfanXu2023@u.northwestern.edu, mengfan.xu@northwestern.edu</span><p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
