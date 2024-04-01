@@ -316,7 +316,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webq: "-resize 500x -quality 85"
+    webq: "-resize 400x -quality 85"
 
 
 # webp: "-resize 800x"
