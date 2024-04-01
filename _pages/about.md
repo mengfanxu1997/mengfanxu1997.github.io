@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/graduate-students/phd-students-on-job-market.html'>Ph.D. candidate in IEMS at Northwestern</a>. 
+subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/graduate-students/phd-students-on-job-market.html'>Ph.D. candidate in IEMS at Northwestern and incoming assistant professor at UMass Amherst</a>. 
 
 profile:
   align: right
