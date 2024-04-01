@@ -55,7 +55,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 2000px
+max_width: 1600px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -308,8 +308,8 @@ imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
-    - 1200
-    - 1800
+    - 800
+    - 1400
   input_directories:
     - assets/img/
   input_formats:
