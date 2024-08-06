@@ -9,9 +9,9 @@ profile:
   image: Github.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Tech Institute C151</p>
-    <p>2145 Sheridan Road</p>
-    <p>Evanston, IL, 60208, U.S.A.</p>
+    <p>324 ELab, Engineer Lab</p>
+    <p>160 Governors Drive</p>
+    <p>Amherst, MA, 01003, U.S.A.</p>
     <p><span style='color: red;'>Contact: mengfanxu@umass.edu, MengfanXu2023@u.northwestern.edu, mengfan.xu@northwestern.edu</span><p>
 
 news: true  # includes a list of news items
@@ -24,7 +24,7 @@ Hi! I am Mengfan, and I recently obtained my Ph.D. from the [Department of Indus
 
 I will be joining the [Department of Mechanical and Industrial Engineering](https://www.umass.edu/engineering/about/directory?s=&field_person__profile_type_ref_target_id%5B411%5D=411&field_person__related_programs_target_id%5B91%5D=91&field_person__related_programs_target_id%5B156%5D=156&page=0) at [UMass Amherst](https://www.umass.edu/) as a tenure-track assistant professor in September 2024! 
 
-<span style='color: red;'>For prospective students:</span> I am actively seeking PhD students and Research Assistants. If you are interested in working with me, please feel free to send me an email [mengfanxu@umass.edu](mailto:mengfanxu@umass.edu) :blush: I appreciate your interest and for reaching out, and I will try to respond to the messages within a week. In the meantime, it would be great if you could glance at the research area I am working on :) Thank you so much for your time and patience! 
+<span style='color: red;'>For prospective students:</span> I am actively seeking PhD students and Research Assistants. If you are interested in working with me, please feel free to send me an email [mengfanxu@umass.edu](mailto:mengfanxu@umass.edu) :blush: I appreciate your interest and for reaching out, and I will try to respond to the messages within a week. In the meantime, it would be great if you could glance at the research area I am working on before reaching out :) Thank you so much for your time and patience! 
 
 My research goal is to formulate online sequential decision-making problems and subsequently develop algorithms that are provably optimal for addressing them, with a particular emphasis on Multi-armed Bandits. What I am aiming for is to capture the intricate dynamics within the underlying structures with new methodologies, driven by real world problems faced by decision makers and with applications accross a wide range of domains. In general, my research interests are as follows:
   - Multi-armed Bandit
