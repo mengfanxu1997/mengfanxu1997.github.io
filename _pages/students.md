@@ -23,6 +23,8 @@ Muyu Yang (M.S. in Operation Research, Columbia University, 2023), Sep. 2024 -
 
 #### Master students 
 
+NA
+
 #### Undergraduates 
 
 Jessica Lanin (at Northwestern, 2023 Spring)
@@ -36,4 +38,6 @@ Tyler Shannon (at Northwestern, 2023 Spring)
 Konyin Rilwan Okubadejo (at Northwestern, 2023 Spring)
 
 ### Research Assistants 
+
+NA
 
