@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 Teaching Assistant at Northwestern 
