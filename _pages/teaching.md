@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+Instructor at UMass Amherst
+  - Descriptive Analytics (Fall 2024), Website coming soon! 
+
 Teaching Assistant at Northwestern 
   - MLDS-400: Everything starts with data (Fall 2023)
   - IEMS-404/MLDS-401: Predictive analytics (Fall 2023)
