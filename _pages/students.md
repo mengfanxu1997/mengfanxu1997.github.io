@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: students
-description: students
+description: 
 nav: true
 nav_order: 5
 ---
