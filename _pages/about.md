@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/graduate-students/phd-students-on-job-market.html'>Assistant Professor at UMass Amherst</a>. 
+subtitle: <a href='https://www.mccormick.northwestern.edu/industrial/people/graduate-students/phd-students-on-job-market.html'> Assistant Professor at UMass Amherst</a>. 
 
 profile:
   align: right
