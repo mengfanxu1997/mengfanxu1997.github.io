@@ -15,28 +15,31 @@ I have been privileged and fortunate to have worked with very talented and amazi
 
 **PhD students**
 
-Muyu Yang (M.S. in Operation Research, Columbia University, 2023), Sep. 2024 - 
+Muyu Yang (at UMass Amherst), Sep. 2024 - Present
+Background: M.S. in Operation Research, Columbia University, 2023
 
 
 **Master students** 
 
 NA
 
-
 **Undergraduates** 
 
-Jessica Lanin (at Northwestern, Spring 2023)
+Jingshuai Zhang (at University of Minnesota - Twin Cities), Sep. 2024 - Present 
 
-Alejandra Bustamante (at Northwestern, Spring 2023)
+Jessica Lanin (at Northwestern), Spring 2023
 
-Tom Muma Ratemo (at Northwestern, Spring 2023)
+Alejandra Bustamante (at Northwestern), Spring 2023
 
-Tyler Shannon (at Northwestern, Spring 2023)
+Tom Muma Ratemo (at Northwestern), Spring 2023
 
-Konyin Rilwan Okubadejo (at Northwestern, Spring 2023)
+Tyler Shannon (at Northwestern), Spring 2023
+
+Konyin Rilwan Okubadejo (at Northwestern), Spring 2023
 
 
 **Research Assistants** 
 
-NA
+Yixiao, Aug. 2024 - Present 
+Background: M.S. in Electrical and Computer Engineering, Northeastern University, 2023
 
