@@ -16,6 +16,7 @@ I have been privileged and fortunate to have worked with very talented and amazi
 **PhD students**
 
 Muyu Yang (at UMass Amherst), Sep. 2024 - Present
+
 Background: M.S. in Operation Research, Columbia University, 2023
 
 
@@ -41,5 +42,6 @@ Konyin Rilwan Okubadejo (at Northwestern), Spring 2023
 **Research Assistants** 
 
 Yixiao, Aug. 2024 - Present 
+
 Background: M.S. in Electrical and Computer Engineering, Northeastern University, 2023
 
