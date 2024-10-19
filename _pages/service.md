@@ -7,12 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+
 Conference Reviewer
   - AISTATS 2025
   - ICLR 2025
   - NeurIPS 2024
   - ACML 2024
 
+Session Chair
+  - Informs Annual Meeting, 2024
 
 Faculty Advisor 
   - Undergraduate Club at UMass Amherst for [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 2024-2025
