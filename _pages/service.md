@@ -22,7 +22,7 @@ Faculty Advisor
   - Client Project Challenge [(CPC)](https://www.mccormick.northwestern.edu/industrial/academics/undergraduate/client-project-challenge/projects/logistics-assessment.html) at Northwestern University, Spring 2024
 
 Panel Speaker
-  - Research Seminar, UMass Amherst, October 2024
+  - Research Panel (Professor & Pizza), UMass Amherst, October 2024
   - Data Science Night (DSN), Northwestern Universit, September 2024 
 
 Professional Soceity 
