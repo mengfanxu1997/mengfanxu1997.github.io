@@ -8,10 +8,10 @@ nav_order: 5
 ---
 
 
-Conference Reviewer
+Program Committee
   - AISTATS 2025
   - ICLR 2025
-  - NeurIPS 2024
+  - NeurIPS 2024 (Top Reviewer 10%)
   - ACML 2024
 
 Session Chair
