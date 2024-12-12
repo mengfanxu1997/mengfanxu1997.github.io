@@ -9,6 +9,7 @@ nav_order: 5
 
 
 Program Committee
+  - ICML 2025
   - AISTATS 2025
   - ICLR 2025
   - NeurIPS 2024 (Top Reviewer 10%)
