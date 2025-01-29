@@ -18,6 +18,9 @@ Program Committee
 Session Chair
   - Informs Annual Meeting, 2024
 
+Reviewer
+  - TMLR 
+
 Faculty Advisor 
   - Undergraduate Club at UMass Amherst for [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 2024-2025
   - Client Project Challenge [(CPC)](https://www.mccormick.northwestern.edu/industrial/academics/undergraduate/client-project-challenge/projects/logistics-assessment.html) at Northwestern University, Spring 2024
