@@ -29,8 +29,13 @@ Background: M.S. in Operation Research, Columbia University, 2023
 NA
 
 **Undergraduates** 
+Jose (at UMass Amherst), Jan. 2025 - Present
+
+Next Position: Graduate student in Comouter Science at UMass Amherst 
 
 Jingshuai Zhang (at University of Minnesota - Twin Cities), Sep. 2024 - Present 
+
+Next Position: Graduate student in Computer Science at University of Pennsylvania 
 
 Jessica Lanin (at Northwestern), Spring 2023
 
@@ -45,7 +50,5 @@ Konyin Rilwan Okubadejo (at Northwestern), Spring 2023
 
 **Research Assistants** 
 
-Yixiao, Aug. 2024 - Present 
-
-Background: M.S. in Electrical and Computer Engineering, Northeastern University, 2023
+NA 
 
