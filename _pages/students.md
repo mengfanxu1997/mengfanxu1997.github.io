@@ -29,6 +29,7 @@ Background: M.S. in Operation Research, Columbia University, 2023
 NA
 
 **Undergraduates** 
+
 Jose (at UMass Amherst), Jan. 2025 - Present
 
 Next Position: Graduate student in Comouter Science at UMass Amherst 
