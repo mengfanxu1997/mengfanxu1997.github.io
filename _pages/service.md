@@ -9,6 +9,7 @@ nav_order: 5
 
 
 Program Committee
+  - AAAI 2026
   - NeurIPS 2025 
   - ICML 2025
   - AISTATS 2025
@@ -17,10 +18,11 @@ Program Committee
   - ACML 2024
 
 Session Chair
-  - Informs Annual Meeting, 2024
   - Informs Annual Meeting, 2025
+  - Informs Annual Meeting, 2024
 
 Reviewer
+  - Informs Journal on Computing 
   - TMLR
   - IISE Transaction 
 
