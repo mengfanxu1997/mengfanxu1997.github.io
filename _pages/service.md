@@ -17,6 +17,9 @@ Program Committee
   - NeurIPS 2024 (Top Reviewer 10%)
   - ACML 2024
 
+Conference Track Chair
+  - Co-chair, Modeling & Simulation Track, IISE Annual Conference & Expo 2026 
+
 Session Chair
   - Informs Annual Meeting, 2025
   - Informs Annual Meeting, 2024
