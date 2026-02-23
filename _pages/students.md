@@ -62,13 +62,9 @@ I have been privileged and fortunate to have worked with very talented and amazi
 
 **PhD students**
 
-Bingnan Huo (at UMass Amherst), Starting Sep. 2025 
-
-Background: M.S. in Data Science, Brown University, 2025
-
-Muyu Yang (at UMass Amherst), Sep. 2024 - Present
-
-Background: M.S. in Operation Research, Columbia University, 2023
+Jingqi Fan (co-advised with Prof. Mohammad Hajiesmaili), Starting Sep. 2026
+Bingnan Huo, Sep. 2025 - Present
+Muyu Yang, Sep. 2024 - Present
 
 **Undergraduates** 
 
