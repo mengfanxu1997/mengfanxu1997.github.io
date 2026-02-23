@@ -4,8 +4,12 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
+
+Instructor at UMass Amherst
+  - Descriptive Analytics (Fall 2024, Fall 2025)
+  - Introducion to Simulation (Spring 2025)
 
 Teaching Assistant at Northwestern 
   - MLDS-400: Everything starts with data (Fall 2023)

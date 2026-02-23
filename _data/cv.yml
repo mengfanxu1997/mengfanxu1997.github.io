@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Mengfan Xu
-    - name: Date of Birth
-      value: July 4th, 1997
     - name: Languages
       value: English, Chinese
 
@@ -16,7 +14,7 @@
       year: 2024
       description:
         - Majored in Industrial Engineering and Management Sciences
-        - Dissertation title: Multi-agent and Multi-objective Multi-armed Bandit
+        - Dissertation title "Multi-agent and Multi-objective Multi-armed Bandit"
         - Advised by Professor Diego Klabjan
     - title: B.S. 
       institution: University of Science and Technology of China, China
@@ -51,6 +49,9 @@
     - year: 2018 - 2019
       items: 
         - Walter P. Murphy Graduate Fellowship
+    - year: 2018
+      items: 
+        - Runner up, Guo Moruo Scholarship (the highest honor at USTC)
     - year: 2017
       items: 
         - National Scholarship (top 1%)
