@@ -93,7 +93,4 @@ Tyler Shannon (at Northwestern), Spring 2023
 Konyin Rilwan Okubadejo (at Northwestern), Spring 2023
 
 
-**Research Assistants** 
-
-NA 
 
