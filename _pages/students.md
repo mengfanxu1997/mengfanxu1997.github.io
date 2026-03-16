@@ -25,6 +25,8 @@ Jingyuan Liu (at Nanjing University), Oct. 2024 - Present
 
 John Wang (at UMass Amherst), Sept. 2025 - Present 
 
+Next Position: Graduate student in Comouter Science at UMass Amherst 
+
 Jose (at UMass Amherst), Jan. 2025 - July 2025
 
 Next Position: Graduate student in Comouter Science at UMass Amherst 
