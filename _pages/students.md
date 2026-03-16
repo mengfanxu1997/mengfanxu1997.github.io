@@ -16,6 +16,8 @@ Kenneth Chen (M.S. at University of Chicago), Starting Sep. 2026
 
 Jingqi Fan (co-advised with Prof. Mohammad Hajiesmaili at CICS, B.S. at Northeastern University), Starting Sep. 2026
 
+Zirui Liu (co-advised with Prof. Shiqing Ma at CICS, M.S. at University of California Irvine), Sep. 2025 - Present 
+
 Bingnan Huo (M.S. at Brown University), Sep. 2025 - Present
 
 
