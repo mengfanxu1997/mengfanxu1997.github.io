@@ -83,26 +83,16 @@
     - year: 2013
       items:
         - National High School Mathematics Olympiad, Chinese Mathematics Society
-        - Second Prize in Henan Province
+        - Second Prize in Province
         
 - title: Skills
   type: nested_list
   contents:
     - title: Programming Languages
       items: 
-        - Python
-        - R
-        - SQL
-        - Scala
-        - SAS
-        - Latex
-        - C
+        - Python, R, SQL, Scala, SAS, LaTeX, C
     - title: System and framework
       items:
-        - Linux
-        - Spark
-        - Hadoop
-        - Kubernetes,
-        - Pytorch
-        - GCC
+        - Linux, Spark, Hadoop, Kubernetes, PyTorch, GCC
+
     
