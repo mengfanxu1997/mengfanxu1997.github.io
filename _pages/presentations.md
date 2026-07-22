@@ -9,9 +9,6 @@ nav_order: 5
 
 Presentations
 
-```markdown
-## Presentations
-
 ### 2026
 
 - Collective Intelligent Decision-Making Under Uncertainty via Multi-Agent Learning  
@@ -98,8 +95,6 @@ Presentations
 
 - Fully Sequential Ranking and Selection Procedures with PAC Guarantee, by Y. Zhong and L. J. Hong  
   Oral Presentation, Northwestern University, Evanston, IL — June 2019
-```
-
 
     
      
