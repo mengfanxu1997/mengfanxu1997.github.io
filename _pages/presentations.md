@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-Presentations
-
 ### 2026
 
 - Collective Intelligent Decision-Making Under Uncertainty via Multi-Agent Learning  
