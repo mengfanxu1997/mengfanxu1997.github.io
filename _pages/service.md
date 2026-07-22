@@ -7,30 +7,34 @@ nav: true
 nav_order: 7
 ---
 
+Conference Track Chair
+  - Co-chair, Modeling & Simulation Track, IISE Annual Conference & Expo 2026
+
+Session Chair
+  - Informs Annual Meeting, 2026
+  - Informs Annual Meeting, 2025
+  - Informs Annual Meeting, 2024
 
 Program Committee
+  - ACM SIGMETRICS 2026
+  - ICML 2026
   - AAAI 2026
   - NeurIPS 2025 
   - ICML 2025
   - AISTATS 2025
   - ICLR 2025
-  - NeurIPS 2024 (Top Reviewer 10%)
-  - ACML 2024
-
-Conference Track Chair
-  - Co-chair, Modeling & Simulation Track, IISE Annual Conference & Expo 2026 
-
-Session Chair
-  - Informs Annual Meeting, 2025
-  - Informs Annual Meeting, 2024
+  - NeurIPS 2024
+  - ACML 2024 
 
 Reviewer
+  - IEEE Transactions on Networking
+  - Omega 
   - Informs Journal on Computing 
   - TMLR
   - IISE Transaction 
 
 Faculty Advisor 
-  - Undergraduate Club at UMass Amherst for [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 2024-2025
+  - Undergraduate Club at UMass Amherst for [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/), 2024-2026
   - Client Project Challenge [(CPC)](https://www.mccormick.northwestern.edu/industrial/academics/undergraduate/client-project-challenge/projects/logistics-assessment.html) at Northwestern University, Spring 2024
 
 Panel Speaker
@@ -41,6 +45,7 @@ Panel Speaker
 Professional Soceity 
   - INFORMS
   - IISE
+  - ACM 
 
     
      
