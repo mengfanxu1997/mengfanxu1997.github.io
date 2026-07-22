@@ -8,8 +8,9 @@ nav_order: 4
 ---
 
 Instructor at UMass Amherst
-  - Descriptive Analytics (Fall 2024, Fall 2025)
-  - Introducion to Simulation (Spring 2025)
+  - Machine Learning for Dynamic Decision Making (Spring 2027)
+  - Descriptive Analytics (Fall 2024, Fall 2025, Fall 2026)
+  - Introducion to Simulation (Spring 2025, Spring 2026)
 
 Teaching Assistant at Northwestern 
   - MLDS-400: Everything starts with data (Fall 2023)
