@@ -29,7 +29,7 @@ John Wang (at UMass Amherst), Sept. 2025 - Present, Next Position: Graduate stud
 
 Jose (at UMass Amherst), Jan. 2025 - July 2025, Next Position: Graduate student in Computer Science at UMass Amherst 
 
-Jingshuai Zhang (at University of Minnesota - Twin Cities), Sep. 2024 - July 2025, Next Position: Graduate student in Computer Science at UPenn
+Jingshuai Zhang (at University of Minnesota), Sep. 2024 - July 2025, Next Position: Graduate student in Computer Science at UPenn
 
 Jessica Lanin (at Northwestern), Spring 2023
 
