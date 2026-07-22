@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/preprints.md -->
-<div class="preprints">
+<div class="publications">
 
 <h2>Preprints</h2>
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[keywords~=preprint] %}
