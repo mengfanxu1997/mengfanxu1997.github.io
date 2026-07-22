@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Mengfan Xu
-    - name: Languages
-      value: English, Chinese
-
 - title: Education
   type: time_table
   contents:
@@ -21,7 +13,11 @@
       year: 2018
       description:
         - Majored in Statistics
-        - Summer research at Yale University in 2017
+    - title: Summer exchange program
+      institution: Yale University, United States
+      year: 2017
+      description:
+        - BioStatistics    
 
 - title: Experience
   type: time_table
@@ -43,32 +39,51 @@
         - Built a model pipeline for online recommender systems with causal neural networks
         - Did research on treatment effect estimation including proving the convergence of GCF for non-parametric DRF, giving multiple talks and finishing a paper accepted for oral presentation at KDD 2022
 
-- title: Honors and Awards
+- title: Awards and Honors
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Silver Reviewer, ICML
+
+    - year: 2025
+      items:
+        - Meritorious Reviewer, INFORMS Journal on Computing
+
+    - year: 2024
+      items:
+        - Top Reviewer, NeurIPS
+        - Honorable Mention, RLC Workshop
+
+    - year: 2023
+      items:
+        - Spotlight Presentation, NeurIPS (top 3%)
+
     - year: 2018 - 2019
-      items: 
-        - Walter P. Murphy Graduate Fellowship
+      items:
+        - Walter P. Murphy Graduate Fellowship, Northwestern University
+
     - year: 2018
-      items: 
-        - Runner up, Guo Moruo Scholarship (the highest honor at USTC)
+      items:
+        - Runner-up, Guo Moruo Scholarship, USTC (the highest honor)
+
     - year: 2017
-      items: 
-        - National Scholarship (top 1%)
-    - year: 2016
-      items: 
-        - National Scholarship (top 1%)
+      items:
+        - National Scholarship, Chinese Ministry of Education (top 1%)
+
     - year: 2016
       items:
-        - Mobile Commerce Competition
-        - Frist Prize 
+        - National Scholarship, Chinese Ministry of Education (top 1%)
+        - Mobile Commerce Competition, USTC (top 1)
+
     - year: 2015
-      items: 
-        - Scholarship of Minglong Huang (top 10%)
+      items:
+        - Scholarship of Minglong Huang, USTC (top 10%)
+
     - year: 2013
-      items: 
-        - National High School Mathematics Olympiad
-        - Second Prize
+      items:
+        - National High School Mathematics Olympiad, Chinese Mathematics Society
+        - Second Prize in Henan Province
         
 - title: Skills
   type: nested_list
