@@ -10,7 +10,7 @@ nav_order: 3
 
 I have been privileged and fortunate to have worked with very talented and amazing students. It has been truly enjoyable to have our career paths cross.
 
-**PhD students**
+**PhD advisees**
 
 - Kenneth Chen (M.S. at University of Chicago), Starting Sep. 2026
 
@@ -20,8 +20,21 @@ I have been privileged and fortunate to have worked with very talented and amazi
 
 - Bingnan Huo (M.S. at Brown University), Sep. 2025 - Present
 
+**PhD student collaborators**
 
-**Undergraduates** 
+- Changkun Guan, Industrial Engineering, Georgia Tech 
+  
+- Chengyu Du, Biostatistics, UMass Amherst
+  
+- Amirmahdi Mirfakhar, Computer Science, UMass Amherst
+  
+- Fatemeh Ghaffari, Computer Science, UMass Amherst
+  
+- Wei Shen, Computer Science, University of Virginia 
+  
+- Yaxiang Zhang, Statistics, National University of Singapore
+
+**Undergraduate advisees** 
 
 - Jingyuan Liu (at Nanjing University), Oct. 2024 - Present, Next Position: Graduate student in Operations Research at UC Berkeley
 
