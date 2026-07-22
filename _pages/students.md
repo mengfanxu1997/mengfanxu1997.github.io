@@ -25,11 +25,11 @@ Bingnan Huo (M.S. at Brown University), Sep. 2025 - Present
 
 Jingyuan Liu (at Nanjing University), Oct. 2024 - Present, Next Position: Graduate student in Operations Research at UC Berkeley
 
-John Wang (at UMass Amherst), Sept. 2025 - Present, Next Position: Graduate student in Comouter Science at UMass Amherst 
+John Wang (at UMass Amherst), Sept. 2025 - Present, Next Position: Graduate student in Computer Science at UMass Amherst 
 
-Jose (at UMass Amherst), Jan. 2025 - July 2025, Next Position: Graduate student in Comouter Science at UMass Amherst 
+Jose (at UMass Amherst), Jan. 2025 - July 2025, Next Position: Graduate student in Computer Science at UMass Amherst 
 
-Jingshuai Zhang (at University of Minnesota - Twin Cities), Sep. 2024 - July 2025, Next Position: Graduate student in Computer Science at University of Pennsylvania 
+Jingshuai Zhang (at University of Minnesota - Twin Cities), Sep. 2024 - July 2025, Next Position: Graduate student in Computer Science at UPenn
 
 Jessica Lanin (at Northwestern), Spring 2023
 
