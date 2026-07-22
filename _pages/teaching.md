@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience 
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 Instructor at UMass Amherst
