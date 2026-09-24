@@ -23,9 +23,7 @@ I have been privileged and fortunate to have worked with very talented and amazi
 **PhD student collaborators**
 
 - Changkun Guan, Industrial Engineering, Georgia Tech 
-  
-- Chengyu Du, Biostatistics, UMass Amherst
-  
+    
 - Amirmahdi Mirfakhar, Computer Science, UMass Amherst
   
 - Fatemeh Ghaffari, Computer Science, UMass Amherst
@@ -36,9 +34,9 @@ I have been privileged and fortunate to have worked with very talented and amazi
 
 **Undergraduate advisees** 
 
-- Jingyuan Liu (at Nanjing University), Oct. 2024 - Present, Next Position: Graduate student in Operations Research at UC Berkeley
+- Jingyuan Liu (at Nanjing University), Oct. 2024 - Apr. 2026, Next Position: Graduate student in Operations Research at UC Berkeley
 
-- John Wang (at UMass Amherst), Sept. 2025 - Present, Next Position: Graduate student in Computer Science at UMass Amherst 
+- John Wang (at UMass Amherst), Sept. 2025 - Jun. 2026, Next Position: Graduate student in Computer Science at UMass Amherst 
 
 - Jose (at UMass Amherst), Jan. 2025 - July 2025, Next Position: Graduate student in Computer Science at UMass Amherst 
 
